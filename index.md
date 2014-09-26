@@ -1,3 +1,6 @@
+---
+---
+
 # XxNovaXx's Iron Yard Blog
 
 ## About Me
