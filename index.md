@@ -1,5 +1,4 @@
----
----
+![Header](http://olimpikbeograd.com/wp-content/themes/dt-nimble/images/backgrounds/header/art-header-main/full/r_atr-header-main.jpg)
 
 # XxNovaXx's Iron Yard Blog
 
@@ -12,4 +11,3 @@ My name is Ally and I'm a student at The Iron Yard's first front end engineering
  - [First Day At The Yard](/2014/09/22/FirstDayAtTheYard.html)
  - [It's My First Weekend Being A Code Monkey & I Love It](/2014/09/27/FifthDayAtTheYard.html)
  - [It's Saturday & I'm Here](/2014/09/28/SixthDayAtTheYard.html)
-
