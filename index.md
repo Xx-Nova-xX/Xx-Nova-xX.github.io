@@ -1,4 +1,4 @@
-[Header](http://olimpikbeograd.com/wp-content/themes/dt-nimble/images/backgrounds/header/art-header-main/full/r_atr-header-main.jpg)
+[Header](/Graphics/r_atr-header-main.jpg)
 
 # XxNovaXx's Iron Yard Blog
 
