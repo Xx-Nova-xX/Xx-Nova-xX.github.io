@@ -1,4 +1,6 @@
-[Header](/Graphics/r_atr-header-main.jpg)
+---
+
+![Header](https://vfs-gce-usw-07.c9.io/vfs/1008099/0TRPaUpAwYSIfOFX/workspace/Graphics/r_atr-header-main.jpg)
 
 # XxNovaXx's Iron Yard Blog
 
