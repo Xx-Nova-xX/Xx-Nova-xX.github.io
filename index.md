@@ -1,6 +1,6 @@
 ---
 
-![Header](https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/r_atr-header-main.jpg)
+![myheader](http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/r_atr-header-main.jpg)
 
 # XxNovaXx's Iron Yard Blog
 
