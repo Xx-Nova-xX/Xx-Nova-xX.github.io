@@ -1,6 +1,4 @@
 ---
-layout:"default"
----
 
 # XxNovaXx's Iron Yard Blog
 
