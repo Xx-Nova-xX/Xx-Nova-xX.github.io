@@ -2,10 +2,9 @@
 <!-- language: html-->
 <html>
 <a href="/"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/r_atr-header-main.jpeg"></a>
-</html
+</html>
+<center><h1>XxNovaXx's Iron Yard Blog</h1></center>
 ---
-
-# XxNovaXx's Iron Yard Blog
 
 ## About Me 
 
