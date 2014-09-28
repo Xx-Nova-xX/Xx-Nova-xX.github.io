@@ -1,8 +1,6 @@
 ---
-layouts:default
----
 
-![myheader](https://vfs-gce-usw-14.c9.io/vfs/1008099/8wVs5tVoiH6JzHnl/workspace/images/r_atr-header-main.jpeg)
+---
 
 # XxNovaXx's Iron Yard Blog
 
