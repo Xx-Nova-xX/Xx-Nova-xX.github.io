@@ -1,7 +1,13 @@
+---
+<!-- language: html-->
+<html>
+<a href="/"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/r_atr-header-main.jpeg"></a>
+</html
+---
 
 # XxNovaXx's Iron Yard Blog
 
-## About Me
+## About Me 
 
 My name is Ally and I'm a student at The Iron Yard's first front end engineering class in Orlando, FL. The program goes for 12 weeks and will beat us into web developers. I'm one week into the program and have already learned tons of information about Git, Cloud 9, & Jekyll. 
 
