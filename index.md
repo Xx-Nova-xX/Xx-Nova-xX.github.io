@@ -1,6 +1,8 @@
 ---
+layouts:default
+---
 
-![myheader](http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/r_atr-header-main.jpg)
+![myheader](https://vfs-gce-usw-14.c9.io/vfs/1008099/8wVs5tVoiH6JzHnl/workspace/images/r_atr-header-main.jpeg)
 
 # XxNovaXx's Iron Yard Blog
 
