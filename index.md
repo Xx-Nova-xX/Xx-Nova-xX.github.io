@@ -17,7 +17,7 @@
 <br>
 <blockquote><u><font size="14" color="white" face="Graphite STD">Blog Posts</font></blockquote>
 
----
+######Blog Posts
 
  - [First Day At The Yard](/2014/09/22/FirstDayAtTheYard.html)
  - [It's My First Weekend Being A Code Monkey & I Love It](/2014/09/27/FifthDayAtTheYard.html)
