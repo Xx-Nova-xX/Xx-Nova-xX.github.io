@@ -16,4 +16,3 @@
 
 <blockquote><font size="5" color="white" face="Graphite STD"> I've been learning web development for a few days. There have been small bursts of panic and fear of falling behind but so far I am overall enjoying it. </font></blockquote>
 
-<a href="http://xx-nova-xx.github.io/"><img src="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/HomeButton.png" height="50" width="50"></a>
