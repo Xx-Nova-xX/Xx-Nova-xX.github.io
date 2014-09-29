@@ -2,10 +2,10 @@
 <!-- language: html-->
 <br>
 <br>
-<body background="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/binaries-ipad-backgrounds.jpg">
+<body background="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/binarybg.jpg">
 <center><a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/NovaBlogHeaderImageCustomized.jpg" width="1400" height="391"></a></center>
-
 </body>
+
 <br>
 
 <u><font size ="14" color="grey">About Me</font></u>
