@@ -1,11 +1,14 @@
 ---
 <!-- language: html-->
+<body background="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/WhiteBackground.jpg">
+<center><a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/NovaBlogHeaderImage.jpg" width="1400" height="391"></a></center>
 
----
-<a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/r_atr-header-main.jpeg"></a>
-<center><h1>XxNovaXx's Iron Yard Blog</h1></center>
+</body>
+
 
 ## About Me
+<br>
+<a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/Ally&Korra.jpg" width="469" height="301"></a>
 
 My name is Ally and I'm a student at The Iron Yard's first front end engineering class in Orlando, FL. The program goes for 12 weeks and will beat us into web developers. I'm one week into the program and have already learned tons of information about Git, Cloud 9, & Jekyll. 
 
