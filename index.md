@@ -21,7 +21,7 @@
   <li><font size="5" color="white" face="Graphite STD"><a href="2014/09/22/FirstDayAtTheYard.html">It's My First Day of Class at The Iron Yard</font></li>
   <li><font size="5" color="white" face="Graphite STD"><a href="/2014/09/27/FifthDayAtTheYard.html">It's My First Work Week Friday</font></li>
   <li><font size="5" color="white" face="Graphite STD"><a href="/2014/09/28/SixthDayAtTheYard.html">It's Saturday & I'm Here</font></li>
-  <li><font size="5" color="white" face="Graphite STD"><a href="/2014-09-29-SeventhDayAtTheYard.html">It's Sunday</font></li>
+  <li><font size="5" color="white" face="Graphite STD"><a href="/2014/09/29/SeventhDayAtTheYard.html">It's Sunday</font></li>
   </ul>
 
 </html>

@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-<u><font size="11" color="white" face="Graphite STD">September 27nd, 2014</font></u>
+<u><font size="11" color="white" face="Graphite STD">September 28nd, 2014</font></u>
 <br>
 <br>
 
@@ -19,4 +19,4 @@
 <br>
 <br>
 
-<a href="http://xx-nova-xx.github.io/"><img src="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/HomeButton.png" height="50" width="50"></a>
+<a href="http://xx-nova-xx.github.io/_posts/2014-09-28-SixthDayAtTheYard.md"><img src="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/HomeButton.png" height="50" width="50"></a>
