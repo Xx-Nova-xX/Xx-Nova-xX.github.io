@@ -2,7 +2,7 @@
 <!-- language: html-->
 <br>
 <br>
-<body background="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images//binaries-ipad-backgrounds.jpg">
+<body background="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/binaries-ipad-backgrounds.jpg">
 <center><a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/NovaBlogHeaderImageCustomized.jpg" width="1400" height="391"></a></center>
 
 </body>
