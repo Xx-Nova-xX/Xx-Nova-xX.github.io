@@ -14,6 +14,9 @@
 
 <blockquote><font size="5" color="white" face="Graphite STD">My name is Ally and I'm a student at The Iron Yard's first front end engineering class in Orlando, FL. The program goes for 12 weeks and will beat us into web developers. I'm one week into the program and have already learned tons of information about Git, Cloud 9, & Jekyll.</font></blockquote>
 <br>
+<blockquote><font size="6" color="blue" face="Graphite STD"><a href="https://github.com/Xx-Nova-xX">Find Me On Github</font>
+
+<br>
 <br>
 <blockquote><u><font size="14" color="white" face="Graphite STD">Blog Posts</font></blockquote>
 
