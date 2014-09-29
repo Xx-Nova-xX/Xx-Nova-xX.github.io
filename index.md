@@ -18,10 +18,10 @@
 <blockquote><u><font size="14" color="white" face="Graphite STD">Blog Posts</font></blockquote>
 
   <ul>
-  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="2014/09/22/FirstDayAtTheYard.html">It's My First Day of Class at The Iron Yard</font></li></blockquote>
-  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="/2014/09/27/FifthDayAtTheYard.html">It's My First Work Week Friday</font></li></blockquote>
-  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="/2014/09/28/SixthDayAtTheYard.html">It's Saturday & I'm Here</font></li></blockquote>
-  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="/2014-09-29-SeventhDayAtTheYard.md">It's Sunday</a></li></blockquote>
+  <li><font size="5" color="white" face="Graphite STD"><a href="2014/09/22/FirstDayAtTheYard.html">It's My First Day of Class at The Iron Yard</font></li>
+  <li><font size="5" color="white" face="Graphite STD"><a href="/2014/09/27/FifthDayAtTheYard.html">It's My First Work Week Friday</font></li>
+  <li><font size="5" color="white" face="Graphite STD"><a href="/2014/09/28/SixthDayAtTheYard.html">It's Saturday & I'm Here</font></li>
+  <li><font size="5" color="white" face="Graphite STD"><a href="/2014-09-29-SeventhDayAtTheYard.md">It's Sunday</a></li>
   </ul>
 
 </html>
