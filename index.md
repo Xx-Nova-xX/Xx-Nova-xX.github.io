@@ -1,6 +1,6 @@
 ---
 <!-- language: html-->
----
+
 <br>
 <center><a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/NovaBlogHeaderImageCustomized.jpg" width="1200" height="321"></a></center>
 <body background="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/black-gradient-background.jpg">
@@ -17,6 +17,7 @@
 <br>
 <blockquote><u><font size="14" color="white" face="Graphite STD">Blog Posts</font></blockquote>
 
+---
 
  - [First Day At The Yard](/2014/09/22/FirstDayAtTheYard.html)
  - [It's My First Weekend Being A Code Monkey & I Love It](/2014/09/27/FifthDayAtTheYard.html)
