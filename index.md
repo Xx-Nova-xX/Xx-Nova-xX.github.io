@@ -9,7 +9,7 @@
 
 <br>
 
-<u><font size ="14" color="grey">About Me</font></u>
+<u><font size ="14" color="white">About Me</font></u>
 
 <br>
 
