@@ -16,13 +16,13 @@
 <br>
 <br>
 <blockquote><u><font size="14" color="white" face="Graphite STD">Blog Posts</font></blockquote>
-
+<br>
 </html>
- 
-   - [First Day At The Yard](/2014/09/22/FirstDayAtTheYard.html)
-   - [It's My First Weekend Being A Code Monkey & I Love It](/2014/09/27/FifthDayAtTheYard.html)
-   - [It's Saturday & I'm Here](/2014/09/28/SixthDayAtTheYard.html)
-   - [It's Sunday]()
 
+  <ul>
+  <li><a href="/2014/09/27/FifthDayAtTheYard.html">It's My First Weekend Being A Code Monkey & I Love It</a></li>
+  <li><a href="/2014/09/28/SixthDayAtTheYard.html">It's Saturday & I'm Here</a></li>
+  <li><a href="/2014/09/28/SixthDayAtTheYard.html">It's Sunday</a></li>
+  </ul>
 
  
