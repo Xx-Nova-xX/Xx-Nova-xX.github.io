@@ -8,5 +8,7 @@
 </body>
 
 <br>
+<br>
+<ul><font size="14" color="white" face="Graphite STD">September 22nd, 2014</font></ul>
 
 <blockquote><font size="6" color="white" face="Graphite STD"> Today was my first day at The Iron Yard coding academy. I wasn't sure what to expect but so far things are going good. I'm very eager to jump into learning as much as I can about as many languages as possible.</font></blockquote>
