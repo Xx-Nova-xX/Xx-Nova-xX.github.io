@@ -20,9 +20,10 @@
 </html>
 
   <ul>
+  <li><a href="2014/09/22/FirstDayAtTheYard.html">It's my first day of class at The Iron Yard</a></li>
   <li><a href="/2014/09/27/FifthDayAtTheYard.html">It's My First Weekend Being A Code Monkey & I Love It</a></li>
   <li><a href="/2014/09/28/SixthDayAtTheYard.html">It's Saturday & I'm Here</a></li>
-  <li><a href="/2014/09/28/SixthDayAtTheYard.html">It's Sunday</a></li>
+  <li><a href="/2014-09-29-SeventhDayAtTheYard.md">It's Sunday</a></li>
   </ul>
 
  
