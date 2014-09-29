@@ -1,7 +1,7 @@
 ---
 <!-- language: html-->
-<body background="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/WhiteBackground.jpg">
-<center><a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/NovaBlogHeaderImage.jpg" width="1400" height="391"></a></center>
+<body background="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/GradientBG_001.jpg">
+<center><a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/NovaBlogHeaderImageCustomized.jpg" width="1400" height="391"></a></center>
 
 </body>
 
