@@ -4,7 +4,7 @@
 <br>
 
 <center><a href="http://www.twitter.com/allyhinton"><img src="https://xx-nova-xx_github_io-c9-xxnovaxx.c9.io//images/NovaBlogHeaderImageCustomized.jpg" width="1400" height="391"></a></center>
-<body background="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/LightStreekBG.jpg">
+<body background="http://xx-nova-xx_github_io-c9-xxnovaxx.c9.io/images/Dark-Wallpaper-Background.jpg">
 </body>
 
 <br>
