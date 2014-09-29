@@ -16,14 +16,13 @@
 <br>
 <br>
 <blockquote><u><font size="14" color="white" face="Graphite STD">Blog Posts</font></blockquote>
-<br>
-</html>
 
   <ul>
-  <li><a href="2014/09/22/FirstDayAtTheYard.html">It's my first day of class at The Iron Yard</a></li>
-  <li><a href="/2014/09/27/FifthDayAtTheYard.html">It's My First Weekend Being A Code Monkey & I Love It</a></li>
-  <li><a href="/2014/09/28/SixthDayAtTheYard.html">It's Saturday & I'm Here</a></li>
-  <li><a href="/2014-09-29-SeventhDayAtTheYard.md">It's Sunday</a></li>
+  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="2014/09/22/FirstDayAtTheYard.html">It's My First Day of Class at The Iron Yard</font></li></blockquote>
+  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="/2014/09/27/FifthDayAtTheYard.html">It's My First Work Week Friday</font></li></blockquote>
+  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="/2014/09/28/SixthDayAtTheYard.html">It's Saturday & I'm Here</font></li></blockquote>
+  <li><blockquote><font size="5" color="white" face="Graphite STD"><a href="/2014-09-29-SeventhDayAtTheYard.md">It's Sunday</a></li></blockquote>
   </ul>
 
+</html>
  
